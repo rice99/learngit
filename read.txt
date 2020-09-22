@@ -4,3 +4,4 @@ git 命令
 修改2
 修改3
 修改4
+ git reset HEAD <file> ：把暂存区的内容返给工作区
